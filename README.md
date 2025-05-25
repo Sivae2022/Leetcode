@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivae2022/Leetcode/tree/master/0013-roman-to-integer) |
+| [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sivae2022/Leetcode/tree/master/0048-rotate-image) |
+| [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
