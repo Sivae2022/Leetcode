@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sivae2022/Leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
+| [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sivae2022/Leetcode/tree/master/0076-minimum-window-substring) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
