@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivae2022/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Sivae2022/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sivae2022/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sivae2022/Leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
+| [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sivae2022/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
