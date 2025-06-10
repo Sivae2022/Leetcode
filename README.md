@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sivae2022/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sivae2022/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Sivae2022/Leetcode/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sivae2022/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sivae2022/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
