@@ -1,40 +1,33 @@
 class Solution {
     public int myAtoi(String s) {
-        if (s == null) return 0;
+        String S = s.trim();
+        if (S.length() == 0) {
+            return 0;
+        }
         
-        // Trim leading spaces
-        String s1 = s.trim();
-        if (s1.length() == 0) return 0;
-
-        int sign = 1;
-        int ans = 0;
-        int MIN = Integer.MIN_VALUE;
-        int MAX = Integer.MAX_VALUE;
-
         int i = 0;
-        // Check if the first character is '+' or '-'
-        if (s1.charAt(0) == '-') {
-            sign = -1;
-            i++;
-        } else if (s1.charAt(0) == '+') {
-            i++;
-        }
-
-        while (i < s1.length()) {
-            char c = s1.charAt(i);
-            if (!Character.isDigit(c)) break; // Stop at non-digit character
-            
-            int digit = c - '0';
-            
-            // Check for integer overflow before adding the digit
-            if (ans > (MAX - digit) / 10) {
-                return (sign == 1) ? MAX : MIN;
-            }
-
-            ans = ans * 10 + digit;
+        int sign = 1;
+        
+        if (S.charAt(i) == '-' || S.charAt(i) == '+') {
+            sign = (S.charAt(i) == '-') ? -1 : 1;
             i++;
         }
         
-        return ans * sign;
+        int n = S.length();
+        long num = 0;  
+        
+        while (i < n && Character.isDigit(S.charAt(i))) {
+            num = num * 10 + (S.charAt(i) - '0'); // Convert char to int
+            i++;
+            
+            if (num * sign > Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
+            }
+            if (num * sign < Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
+        }
+        
+        return (int) num * sign;
     }
 }
