@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Sivae2022/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sivae2022/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Sivae2022/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sivae2022/Leetcode/tree/master/0344-reverse-string) |
 ## Array
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivae2022/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sivae2022/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sivae2022/Leetcode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
