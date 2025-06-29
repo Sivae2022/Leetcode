@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Sivae2022/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sivae2022/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sivae2022/Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Sivae2022/Leetcode/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Sivae2022/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Sivae2022/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Sivae2022/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sivae2022/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sivae2022/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sivae2022/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Sivae2022/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
