@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sivae2022/Leetcode/tree/master/0290-word-pattern) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/Sivae2022/Leetcode/tree/master/0289-game-of-life) |
 | [0724-find-pivot-index](https://github.com/Sivae2022/Leetcode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sivae2022/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sivae2022/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Matrix
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sivae2022/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sivae2022/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sivae2022/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sivae2022/Leetcode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sivae2022/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
