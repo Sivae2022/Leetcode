@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/Sivae2022/Leetcode/tree/master/0289-game-of-life) |
 | [0724-find-pivot-index](https://github.com/Sivae2022/Leetcode/tree/master/0724-find-pivot-index) |
+| [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sivae2022/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sivae2022/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sivae2022/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sivae2022/Leetcode/tree/master/0344-reverse-string) |
+| [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sivae2022/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sivae2022/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Sivae2022/Leetcode/tree/master/0097-interleaving-string) |
+| [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivae2022/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
