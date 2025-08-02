@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sivae2022/Leetcode/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Sivae2022/Leetcode/tree/master/0206-reverse-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -167,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sivae2022/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sivae2022/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
