@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sivae2022/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sivae2022/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/Sivae2022/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Sivae2022/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
@@ -184,4 +185,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sivae2022/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Sivae2022/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sivae2022/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
