@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sivae2022/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sivae2022/Leetcode/tree/master/0290-word-pattern) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sivae2022/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sivae2022/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sivae2022/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sivae2022/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sivae2022/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Sivae2022/Leetcode/tree/master/0289-game-of-life) |
 | [0724-find-pivot-index](https://github.com/Sivae2022/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sivae2022/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sivae2022/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -205,9 +209,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sivae2022/Leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sivae2022/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sivae2022/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
