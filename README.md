@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Sivae2022/Leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Sivae2022/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sivae2022/Leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivae2022/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sivae2022/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Sivae2022/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Sivae2022/Leetcode/tree/master/0169-majority-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sivae2022/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sivae2022/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Sivae2022/Leetcode/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivae2022/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Combinatorics
 |  |
