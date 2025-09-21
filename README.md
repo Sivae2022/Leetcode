@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sivae2022/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Sivae2022/Leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Sivae2022/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Sivae2022/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sivae2022/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Sivae2022/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivae2022/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Sivae2022/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Combinatorics
 |  |
@@ -216,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sivae2022/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sivae2022/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sivae2022/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
