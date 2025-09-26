@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sivae2022/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-longest-mountain-in-array](https://github.com/Sivae2022/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sivae2022/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sivae2022/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sivae2022/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sivae2022/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sivae2022/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -220,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sivae2022/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sivae2022/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sivae2022/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sivae2022/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sivae2022/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
