@@ -1,22 +1,21 @@
 class Solution {
     public boolean isValid(String s) {
-         while(true)
-         {
-            if(s.contains("()")) 
-            {
-                s=s.replace("()","");
+        Stack<Character> st = new Stack<>();
+
+        for (char it : s.toCharArray()) {
+            if (it == '(' || it == '{' || it == '[') {
+                st.push(it);
+            } else {
+                if (st.isEmpty()) return false;
+                char ch = st.pop();
+                if ((it == ')' && ch != '(') || 
+                    (it == '}' && ch != '{') || 
+                    (it == ']' && ch != '[')) {
+                    return false;
+                }
             }
-             else if(s.contains("[]")) 
-            {
-                s=s.replace("[]","");
-            }
-             else if(s.contains("{}")) 
-            {
-                s=s.replace("{}","");
-            }
-            else{
-               return s.isEmpty();
-            }
-         }
+        }
+
+        return st.isEmpty();
     }
 }
