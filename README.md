@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sivae2022/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sivae2022/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sivae2022/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Sivae2022/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sivae2022/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sivae2022/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sivae2022/Leetcode/tree/master/0053-maximum-subarray) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sivae2022/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivae2022/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivae2022/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Sivae2022/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sivae2022/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sivae2022/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sivae2022/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sivae2022/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sivae2022/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Sivae2022/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Sivae2022/Leetcode/tree/master/0062-unique-paths) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sivae2022/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sivae2022/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Sivae2022/Leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Sivae2022/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sivae2022/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Sivae2022/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
